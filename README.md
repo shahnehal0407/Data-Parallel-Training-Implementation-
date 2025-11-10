@@ -1,1 +1,1 @@
-# Data-Parallel-Training-Implementation-
+# Data-Parallel-Training-Implementation
